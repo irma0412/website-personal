@@ -1,0 +1,107 @@
+.banner{
+    background: url("https://i.pinimg.com/564x/73/93/91/73939130e8f6bdc984881bfb8e34c22c.jpg") 
+    no-repeat center center;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    color: #fff;
+
+}
+
+.image img{
+    width: 250px;
+    height: 250px;
+    border-radius: 100%;
+}
+.image img:hover{
+    transform: scale(2,2);
+}
+
+.col-md-4 img{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+}
+.card{
+    width: 330px;
+    height:350px
+
+}
+.card-body{
+
+    box-shadow: 5px 5px 7px 5px black;
+}
+.card-body p{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.card-body img{
+    width: 70px;
+    height: 70px;
+}
+.card-body img:hover{
+    transform: scale(2,2);
+}
+.badge{
+    text-align: left;
+    width: 350px;
+    height: fit-content;
+}
+.badge img{
+
+    width: 50px;
+    height: 50px;
+    border-radius:50%;
+}
+
+
+.card-body1{
+    width: 300px;
+    height: 300px;
+    border-radius: 20%;
+    lighting-color: #fff;
+    box-shadow: 5px 5px 7px 5px black;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-right: 20px;
+    
+}
+.card-cv {
+    border-color: #fff;
+  
+    
+   
+
+}
+span:hover{
+    color: black;
+}
+.card-body1 p{
+    text-align: left;
+}
+.card-body1 img{
+    width: 120px;
+    height: 40px;
+}
+h6 img{
+    width: 300px;
+    height: 300px;
+    border-radius: 100%;
+    
+
+}
+h6 img:hover{
+    transform: scale(2,2);
+}
+p img{
+    width: 40px;
+    height: 40px;
+    border-radius: 100%;
+
+   
+}
+p img:hover{
+    transform: scale(2,2);
+}
+
+
